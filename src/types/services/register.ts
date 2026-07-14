@@ -1,4 +1,4 @@
-export interface RegisterUserServiceParams {
+export interface IRegisterUserServiceParams {
   name: string
   email: string
   password: string
